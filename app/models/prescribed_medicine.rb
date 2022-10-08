@@ -1,0 +1,2 @@
+class PrescribedMedicine < ApplicationRecord
+end
